@@ -1,0 +1,72 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{2024Chen}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1c188b70e6b80d2d08dac214b2b05ec6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhanhui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1f5d85067635d59dd4bd60235b83b7d}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35e877ff3b96a8ea9fbd91ef61f31bf4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jinggong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c76d670b7057db762ed34e95c41f30ec}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Wenjun},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5715b76a76808ea761f29267135a416b}
+      \strng{fullhash}{032b992670bde1d9824ef9b26c8be763}
+      \strng{bibnamehash}{5715b76a76808ea761f29267135a416b}
+      \strng{authorbibnamehash}{5715b76a76808ea761f29267135a416b}
+      \strng{authornamehash}{5715b76a76808ea761f29267135a416b}
+      \strng{authorfullhash}{032b992670bde1d9824ef9b26c8be763}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Management Science}
+      \field{number}{7}
+      \field{title}{Managing Weather Risk with a Neural Network-Based Index Insurance}
+      \field{volume}{70}
+      \field{year}{2024}
+      \field{pages}{4306\bibrangedash 4327}
+      \range{pages}{22}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Data}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Model}{11}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{NN-Based Solution}{17}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{Neural Networks and Feasible Set}{18}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{罚函数法}{22}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{3}{增广Lagrange法}{25}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Result}{28}{0}{5}
